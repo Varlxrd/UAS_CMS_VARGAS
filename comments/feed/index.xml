@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for uas_cms	</title>
+	<atom:link href="https://varlxrd.github.io/UAS_CMS_VARGAS/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://varlxrd.github.io/UAS_CMS_VARGAS</link>
+	<description></description>
+	<lastBuildDate>Fri, 03 Nov 2023 06:54:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>
+		Comment on Welcome to the Profile Menu! by Tomie		</title>
+		<link>https://varlxrd.github.io/UAS_CMS_VARGAS/2023/11/03/hello-world/#comment-1</link>
+
+		<dc:creator><![CDATA[Tomie]]></dc:creator>
+		<pubDate>Fri, 03 Nov 2023 03:40:17 +0000</pubDate>
+		<guid isPermaLink="false">https://varlxrd.github.io/UAS_CMS_VARGAS/?p=1#comment-1</guid>
+
+					<description><![CDATA[&lt;a&gt;While carefully reading a paper, you’ll want to make comments in the margins. These comments have two main purposes: to show students that you attentively read the paper and to help students understand the connection between the paper and your final comments. If you tell a student in the final comment that he or she needs more analysis, for example, the student should be able to locate one or more specific sites in the text that you think are lacking&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p><a>While carefully reading a paper, you’ll want to make comments in the margins. These comments have two main purposes: to show students that you attentively read the paper and to help students understand the connection between the paper and your final comments. If you tell a student in the final comment that he or she needs more analysis, for example, the student should be able to locate one or more specific sites in the text that you think are lacking</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

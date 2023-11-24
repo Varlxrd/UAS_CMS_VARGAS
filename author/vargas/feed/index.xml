@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vargas &#8211; uas_cms</title>
+	<atom:link href="https://varlxrd.github.io/UAS_CMS_VARGAS/author/vargas/feed/" rel="self" type="application/rss+xml" />
+	<link>https://varlxrd.github.io/UAS_CMS_VARGAS</link>
+	<description></description>
+	<lastBuildDate>Fri, 03 Nov 2023 06:54:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Welcome to the Profile Menu!</title>
+		<link>https://varlxrd.github.io/UAS_CMS_VARGAS/2023/11/03/hello-world/</link>
+					<comments>https://varlxrd.github.io/UAS_CMS_VARGAS/2023/11/03/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[vargas]]></dc:creator>
+		<pubDate>Fri, 03 Nov 2023 03:40:17 +0000</pubDate>
+				<category><![CDATA[Information]]></category>
+		<guid isPermaLink="false">https://varlxrd.github.io/UAS_CMS_VARGAS/?p=1</guid>
+
+					<description><![CDATA[UAS COLLAGE welcomes students from across the country and all over the world, with diverse backgrounds and far-ranging talents and interests. From your professors and House advisers to your friends and teammates, UAS COLLAGE is a vibrant community where you can feel supported and encouraged. No matter where you come from, UAS COLLAGE is home. &#8230; <p class="link-more"><a href="https://varlxrd.github.io/UAS_CMS_VARGAS/2023/11/03/hello-world/" class="more-link">Read more<span class="screen-reader-text"> "Welcome to the Profile Menu!"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<p style="text-align: center;">UAS COLLAGE welcomes students from across the country and all over the world, with diverse backgrounds and far-ranging talents and interests.</p>
+<p style="text-align: center;">From your professors and House advisers to your friends and teammates, UAS COLLAGE is a vibrant community where you can feel supported and encouraged. No matter where you come from, UAS COLLAGE is home.</p>
+<p style="text-align: center;">A UAS COLLAGE education is more than coursework. It&#8217;s late-night discussions in the dining hall with friends, drama productions, fierce (or friendly) athletic competitions, outings to Boston&#8217;s museums—and much more.<br />Through extracurricular activities, you&#8217;ll meet new people, pursue your interests (or discover new ones), and enrich your understanding of the world and the people in it.</p>
+<p style="text-align: center;">Need to know what&#8217;s on the menu tonight or when the next shuttle arrives? Get all the information you need to make it through your day.</p>
+<p>&nbsp;</p>
+<h2 class="title-serif--large m-billboard__label" style="text-align: center;">Below are photos about this school</h2>
+<p>&nbsp;</p>
+<p><img decoding="async" fetchpriority="high" class="aligncenter wp-image-51" src="https://varlxrd.github.io/UAS_CMS_VARGAS/wp-content/uploads/2023/11/1509211335.jpg" alt="" width="564" height="282" /></p>
+<p>&nbsp;</p>
+<p><img decoding="async" class="aligncenter wp-image-52 size-full" src="https://varlxrd.github.io/UAS_CMS_VARGAS/wp-content/uploads/2023/11/fcbdb29558d786f5aef3fde34c13069f.jpg" alt="" width="564" height="423" /></p>
+<p>&nbsp;</p>
+<p><img decoding="async" class="aligncenter wp-image-54" src="https://varlxrd.github.io/UAS_CMS_VARGAS/wp-content/uploads/2023/11/Anime-Sports-Background-1.jpg" alt="" width="564" height="296" /></p>
+<p>&nbsp;</p>
+<p><img decoding="async" loading="lazy" class="aligncenter wp-image-55" src="https://varlxrd.github.io/UAS_CMS_VARGAS/wp-content/uploads/2023/11/desktop-wallpaper-1920x1080-anime-building-school-cafeteria-sunshine-anime-school.jpg" alt="" width="564" height="317" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://varlxrd.github.io/UAS_CMS_VARGAS/2023/11/03/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
